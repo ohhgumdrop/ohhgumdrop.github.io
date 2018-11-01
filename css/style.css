@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Oxygen');
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background-color: #5C545B;
+  color: #ffffff;
+  font-family: 'Oxygen', sans-serif;
+  padding: 10px;
+}
+
+h1{
+  background-color: #ad98ab;
+  padding: 10px;
+}
+
+.links {
+  margin:0 auto;
+  text-align: center;
+}
+.links a{
+  color: #dfd9e0;
+}
+
+.gallery{
+  padding: 10px;
+}
+
+iframe{
+  width: 100%;
+  height: 70vh;
+}
